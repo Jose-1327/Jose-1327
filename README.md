@@ -1,4 +1,4 @@
-<h4 align="left">Me chamo José, estudante de programação em constante aprendizado, explorando novas tecnologias e desenvolvendo projetos para crescer na área.</h4>
+<h4 align="left">💻 Estudante de Tecnologia em Redes de Computadores, interessado em infraestrutura, segurança da informação, e automação. Aqui compartilho projetos e experimentos desenvolvidos para testar ideias, aprimorar habilidades e evoluir constantemente na área de tecnologia.</h4>
 
 ###
 
